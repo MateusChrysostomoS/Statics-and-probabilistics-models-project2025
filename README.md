@@ -20,7 +20,7 @@ To run this repository by yourself you will need to install python3 in your mach
 
 ```bash
 # Clone this repository
-$ git clone [https://github.com/MateusChrysostomoS/Statics-and-probabilistics-models-project2025.git](https://github.com/MateusChrysostomoS/Statics-and-probabilistics-models-project2025.git)
+$ git clone https://github.com/MateusChrysostomoS/Statics-and-probabilistics-models-project2025.git
 
 # Access the project page on your terminal
 $ cd Statistics-and-probabilistic-models-project2025
